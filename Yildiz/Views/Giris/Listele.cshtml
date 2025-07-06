@@ -1,0 +1,37 @@
+@model IEnumerable<Yildiz.Models.Giris>
+@{
+    ViewData["Title"] = "Girişler";
+}
+<h2>Girişler</h2>
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        <a class="btn btn-primary" asp-action="Ekle">Yeni Giriş Ekle</a>
+    }
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Sanat Eseri</th>
+            <th>Giriş Tarihi</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.SanatEseri?.Baslik</td>
+            <td>@item.GirisTarihi.ToShortDateString()</td>
+            <td>
+                <a class="btn btn-info btn-sm" asp-action="Detay" asp-route-id="@item.Id">Detay</a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a class="btn btn-warning btn-sm" asp-action="Duzenle" asp-route-id="@item.Id">Düzenle</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Sil" asp-route-id="@item.Id">Sil</a>
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table> 

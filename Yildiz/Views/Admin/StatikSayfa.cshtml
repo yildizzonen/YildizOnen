@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Statik Sayfa";
+}
+<div class="container mt-5">
+    <h2>Statik Sayfa Yönetimi</h2>
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card text-center bg-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Toplam Statik Sayfa</h5>
+                    <p class="display-6">@ViewBag.StatikSayfaSayisi</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center bg-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Son Eklenen</h5>
+                    <p class="card-text">@ViewBag.SonStatikSayfaBaslik</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center bg-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Bugün Eklenenler</h5>
+                    <p class="display-6">@ViewBag.BugunEklenen</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card text-center bg-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Statik Sayfa Listesi</h5>
+                    <a class="btn btn-outline-primary" asp-controller="StatikSayfa" asp-action="Listele">Tümünü Gör</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="alert alert-info mt-4">
+        <strong>Bilgi:</strong> Statik sayfaları ekleyebilir, düzenleyebilir ve silebilirsiniz.
+    </div>
+    <a class="btn btn-success mt-3" asp-controller="StatikSayfa" asp-action="Ekle">Yeni Statik Sayfa Ekle</a>
+</div> 

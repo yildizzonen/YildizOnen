@@ -1,0 +1,36 @@
+@model Yildiz.ViewModels.KayitOlViewModel
+@{
+    ViewData["Title"] = "Kayıt Ol";
+}
+<h2>Kayıt Ol</h2>
+<form asp-action="KayitOl" method="post">
+    <div class="form-group">
+        <label asp-for="Ad"></label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Soyad"></label>
+        <input asp-for="Soyad" class="form-control" />
+        <span asp-validation-for="Soyad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Eposta"></label>
+        <input asp-for="Eposta" class="form-control" />
+        <span asp-validation-for="Eposta" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Sifre"></label>
+        <input asp-for="Sifre" class="form-control" />
+        <span asp-validation-for="Sifre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SifreTekrar"></label>
+        <input asp-for="SifreTekrar" class="form-control" />
+        <span asp-validation-for="SifreTekrar" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

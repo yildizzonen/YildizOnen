@@ -1,0 +1,32 @@
+@model Yildiz.Models.Islem
+@{
+    ViewData["Title"] = "İşlem Ekle";
+}
+<h2>İşlem Ekle</h2>
+<form asp-action="Ekle" method="post">
+    <div class="form-group">
+        <label asp-for="SanatEseriId">Sanat Eseri</label>
+        <input asp-for="SanatEseriId" class="form-control" />
+        <span asp-validation-for="SanatEseriId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="IslemTarihi"></label>
+        <input asp-for="IslemTarihi" class="form-control" type="date" />
+        <span asp-validation-for="IslemTarihi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Aciklama"></label>
+        <input asp-for="Aciklama" class="form-control" />
+        <span asp-validation-for="Aciklama" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="GirisMi">Giriş mi?</label>
+        <input asp-for="GirisMi" type="checkbox" />
+        <span asp-validation-for="GirisMi" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Listele">İptal</a>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

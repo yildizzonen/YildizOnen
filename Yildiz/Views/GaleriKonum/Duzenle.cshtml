@@ -1,0 +1,23 @@
+@model Yildiz.Models.GaleriKonum
+@{
+    ViewData["Title"] = "Konum Düzenle";
+}
+<h2>Konum Düzenle</h2>
+<form asp-action="Duzenle" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Isim"></label>
+        <input asp-for="Isim" class="form-control" />
+        <span asp-validation-for="Isim" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Adres"></label>
+        <input asp-for="Adres" class="form-control" />
+        <span asp-validation-for="Adres" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Listele">İptal</a>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

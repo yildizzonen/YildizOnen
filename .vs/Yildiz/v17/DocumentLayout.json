@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|c:\\users\\yildiz\\desktop\\21220030008\\yildiz\\yildiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\admincontrollerinmemorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\admincontrollerinmemorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\islem\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\islem\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\viewmodels\\girisyapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\viewmodels\\girisyapviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\kullanici\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\kullanici\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\kullanici\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\kullanici\\girisyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\controllers\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\controllers\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\controllers\\giriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\controllers\\giriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\models\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\models\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\models\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\models\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\islem\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\islem\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\islem\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\islem\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\migrations\\20250628160856_yildizguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\migrations\\20250628160856_yildizguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\migrations\\uygulamadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\migrations\\uygulamadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\yildiz\\models\\hatagorunummodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A38F03-6708-427C-A543-23EC7FDDDF4D}|Yildiz\\Yildiz.csproj|solutionrelative:yildiz\\models\\hatagorunummodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\cikiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\cikiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\kullanicicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\kullanicicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\islemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\islemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\galerikonumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\galerikonumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\testproje\\giriscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\giriscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Iletisim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Iletisim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Iletisim\\Index.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Iletisim\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T20:47:38.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Islem\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Sil.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Islem\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:20:46.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminControllerInMemoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\AdminControllerInMemoryTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\AdminControllerInMemoryTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\Yildiz\\TestProje\\AdminControllerInMemoryTests.cs*",
+              "RelativeToolTip": "..\\..\\Yildiz\\TestProje\\AdminControllerInMemoryTests.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:09:22.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Program.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Program.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Program.cs",
+              "RelativeToolTip": "Yildiz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T23:08:55.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\appsettings.json",
+              "RelativeDocumentMoniker": "Yildiz\\appsettings.json",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\appsettings.json",
+              "RelativeToolTip": "Yildiz\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T16:05:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GirisYapViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\ViewModels\\GirisYapViewModel.cs",
+              "RelativeDocumentMoniker": "Yildiz\\ViewModels\\GirisYapViewModel.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\ViewModels\\GirisYapViewModel.cs",
+              "RelativeToolTip": "Yildiz\\ViewModels\\GirisYapViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:16:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T21:22:26.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Kullanici\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Kullanici\\GirisYap.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Kullanici\\GirisYap.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Kullanici\\GirisYap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T21:16:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KayitOl.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Kullanici\\KayitOl.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Kullanici\\KayitOl.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Kullanici\\KayitOl.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Kullanici\\KayitOl.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T21:18:07.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:18:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Iletisim.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\Iletisim.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Controllers\\Iletisim.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\Iletisim.cs",
+              "RelativeToolTip": "Yildiz\\Controllers\\Iletisim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:50:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\Giris.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Models\\Giris.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\Giris.cs",
+              "RelativeToolTip": "Yildiz\\Models\\Giris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:21:40.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\Kullanici.cs",
+              "RelativeToolTip": "Yildiz\\Models\\Kullanici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:21:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GirisController.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\GirisController.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Controllers\\GirisController.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\GirisController.cs",
+              "RelativeToolTip": "Yildiz\\Controllers\\GirisController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:24:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Yildiz\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Yildiz\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T16:13:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "Yildiz\\Controllers\\KullaniciController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:21:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Listele.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Islem\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Listele.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Islem\\Listele.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:20:44.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Islem\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Islem\\Ekle.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Islem\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:20:41.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Models\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\UygulamaDbContext.cs",
+              "RelativeToolTip": "Yildiz\\Models\\UygulamaDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:06:52.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Yildiz\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Yildiz\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:16:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250628160856_YildizGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Migrations\\20250628160856_YildizGuncelleme.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Migrations\\20250628160856_YildizGuncelleme.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Migrations\\20250628160856_YildizGuncelleme.cs",
+              "RelativeToolTip": "Yildiz\\Migrations\\20250628160856_YildizGuncelleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:08:56.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UygulamaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Yildiz\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:07:14.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HataGorunumModeli.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\HataGorunumModeli.cs",
+              "RelativeDocumentMoniker": "Yildiz\\Models\\HataGorunumModeli.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\Yildiz\\Models\\HataGorunumModeli.cs",
+              "RelativeToolTip": "Yildiz\\Models\\HataGorunumModeli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:07:08.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KullaniciControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\KullaniciControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\KullaniciControllerTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\KullaniciControllerTests.cs",
+              "RelativeToolTip": "TestProje\\KullaniciControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:57:50.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IslemControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\IslemControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\IslemControllerTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\IslemControllerTests.cs",
+              "RelativeToolTip": "TestProje\\IslemControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:57:46.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GaleriKonumControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\GaleriKonumControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\GaleriKonumControllerTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\GaleriKonumControllerTests.cs",
+              "RelativeToolTip": "TestProje\\GaleriKonumControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GirisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\GirisControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\GirisControllerTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\GirisControllerTests.cs",
+              "RelativeToolTip": "TestProje\\GirisControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:56.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CikisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\CikisControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\CikisControllerTests.cs",
+              "ToolTip": "C:\\Users\\YILDIZ\\Desktop\\21220030008\\Yildiz\\TestProje\\CikisControllerTests.cs",
+              "RelativeToolTip": "TestProje\\CikisControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:21.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

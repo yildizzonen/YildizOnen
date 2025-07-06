@@ -1,0 +1,114 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2 class="text-center my-4">🎨 Yönetici Dashboard</h2>
+
+<div class="row g-4">
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-primary text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-people-fill fs-1 mb-2"></i>
+                <h5 class="card-title">Kullanıcı</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.KullaniciSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-success text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-mic-fill fs-1 mb-2"></i>
+                <h5 class="card-title">Sanatçı</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.SanatciSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-warning text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-brush-fill fs-1 mb-2"></i>
+                <h5 class="card-title">Sanat Eseri</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.EserSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-danger text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-building fs-1 mb-2"></i>
+                <h5 class="card-title">Sergi</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.SergiSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-info text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-gear-fill fs-1 mb-2"></i>
+                <h5 class="card-title">İşlem</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.IslemSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-secondary text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-box-arrow-in-right fs-1 mb-2"></i>
+                <h5 class="card-title">Giriş</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.GirisSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-dark text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-box-arrow-left fs-1 mb-2"></i>
+                <h5 class="card-title">Çıkış</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.CikisSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-light text-dark dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-globe2 fs-1 mb-2"></i>
+                <h5 class="card-title">Ülke</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.UlkeSayisi</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card shadow-sm border-0 bg-gradient bg-warning text-white dashboard-card">
+            <div class="card-body text-center">
+                <i class="bi bi-geo-alt-fill fs-1 mb-2"></i>
+                <h5 class="card-title">Galeri Konum</h5>
+                <p class="fs-3 fw-bold mb-0">@ViewBag.GaleriKonumSayisi</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<style>
+    .dashboard-card {
+        transition: transform 0.3s, box-shadow 0.3s;
+        cursor: pointer;
+    }
+
+        .dashboard-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
+</style>
+
+<!-- Bootstrap Icons için -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">

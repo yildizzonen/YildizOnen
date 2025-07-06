@@ -1,0 +1,231 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Yildiz
+build_property.RootNamespace = Yildiz
+build_property.ProjectDir = C:\Users\YILDIZ\Desktop\21220030008\Yildiz\Yildiz\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\YILDIZ\Desktop\21220030008\Yildiz\Yildiz
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Admin/StatikSayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3RhdGlrU2F5ZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Cikis/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lraXNcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Cikis/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lraXNcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Cikis/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lraXNcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Cikis/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lraXNcTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Cikis/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lraXNcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/GaleriKonum/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS29udW1cRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/GaleriKonum/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS29udW1cRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/GaleriKonum/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS29udW1cRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/GaleriKonum/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS29udW1cTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/GaleriKonum/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpS29udW1cU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Giris/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Giris/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Giris/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Giris/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Giris/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Islem/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1cRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Islem/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1cRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Islem/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1cRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Islem/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1cTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Islem/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1cU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Kullanici/GirisYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEdpcmlzWWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Kullanici/KayitOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEtheWl0T2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sanatci/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaVxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sanatci/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaVxEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sanatci/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaVxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sanatci/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaVxMaXN0ZWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sanatci/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRjaVxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/SanatEseri/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFc2VyaVxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/SanatEseri/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFc2VyaVxEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/SanatEseri/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFc2VyaVxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/SanatEseri/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFc2VyaVxMaXN0ZWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/SanatEseri/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFc2VyaVxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sergi/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyZ2lcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sergi/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyZ2lcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sergi/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyZ2lcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sergi/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyZ2lcTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Sergi/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VyZ2lcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Ulke/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Ulke/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Ulke/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Ulke/Listele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxMaXN0ZWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Ulke/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVWxrZVxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/YILDIZ/Desktop/21220030008/Yildiz/Yildiz/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8p5qqjzgls

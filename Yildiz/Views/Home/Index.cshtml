@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Yildiz Sanat Galerisi";
+}
+
+<!-- Hero Section -->
+<div class="jumbotron py-5 mb-4 bg-gradient" style="background: linear-gradient(90deg, #3a6186 0%, #89253e 100%); border-radius: 1rem;">
+    <div class="container text-center">
+        <h1 class="display-3 fw-bold mb-3" style="color: #111;">Hoş Geldiniz</h1>
+        <p class="lead mb-4 text-white">Sanatın, sanatçının ve sergilerin buluştuğu modern bir platform.</p>
+        <a class="btn btn-warning btn-lg px-4" asp-controller="Sergi" asp-action="Listele">Sergileri Keşfet</a>
+    </div>
+</div>
+
+<!-- Feature Cards -->
+<div class="container mb-5">
+    <div class="row g-4">
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body text-center">
+                    <i class="bi bi-easel display-4 text-primary mb-3"></i>
+                    <h5 class="card-title">Sanat Eserleri</h5>
+                    <p class="card-text">Koleksiyonumuzdaki eşsiz sanat eserlerini inceleyin.</p>
+                    <a asp-controller="SanatEseri" asp-action="Listele" class="btn btn-outline-primary btn-sm">Tüm Eserler</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body text-center">
+                    <i class="bi bi-person-bounding-box display-4 text-success mb-3"></i>
+                    <h5 class="card-title">Sanatçılar</h5>
+                    <p class="card-text">Sanatçılarımızı tanıyın, biyografilerini keşfedin.</p>
+                    <a asp-controller="Sanatci" asp-action="Listele" class="btn btn-outline-success btn-sm">Sanatçılar</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body text-center">
+                    <i class="bi bi-geo-alt display-4 text-danger mb-3"></i>
+                    <h5 class="card-title">Galeri Konumları</h5>
+                    <p class="card-text">Farklı şehirlerdeki galeri konumlarımızı görün.</p>
+                    <a asp-controller="GaleriKonum" asp-action="Listele" class="btn btn-outline-danger btn-sm">Konumlar</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card h-100 shadow-sm border-0">
+                <div class="card-body text-center">
+                    <i class="bi bi-calendar-event display-4 text-warning mb-3"></i>
+                    <h5 class="card-title">Sergiler</h5>
+                    <p class="card-text">Güncel ve geçmiş sergilerimizi inceleyin.</p>
+                    <a asp-controller="Sergi" asp-action="Listele" class="btn btn-outline-warning btn-sm">Sergiler</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Highlight Section (Image Removed) -->
+<div class="container mb-5">
+    <div class="row align-items-center">
+        <div class="col-md-12">
+            <h2 class="fw-bold mb-3">Sanatla Dolu Bir Yolculuk</h2>
+            <p class="lead">Yıldız Sanat Galerisi, sanatseverleri ve sanatçıları bir araya getirerek ilham verici bir ortam sunar. Sergilerimizi ve koleksiyonumuzu keşfedin, sanatın büyüsüne kapılın.</p>
+            <a asp-controller="SanatEseri" asp-action="Listele" class="btn btn-primary btn-lg">Sanat Eserlerini Gör</a>
+        </div>
+    </div>
+</div>
+
+<!-- Call to Action -->
+<div class="container text-center mb-5">
+    <div class="p-4 bg-light rounded shadow-sm">
+        <h3 class="mb-3">Siz de aramıza katılın!</h3>
+        <p>Üye olarak favori sanatçıları ve eserleri takip edin, sergilerden haberdar olun.</p>
+        <a asp-controller="Kullanici" asp-action="KayitOl" class="btn btn-success btn-lg">Kayıt Ol</a>
+    </div>
+</div>
+
+<!-- Bootstrap Icons CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">

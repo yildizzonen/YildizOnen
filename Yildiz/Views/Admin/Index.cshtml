@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Admin Paneli";
+}
+<div class="admin-dashboard text-center mt-5">
+    <h1 class="display-4">Admin Paneli</h1>
+    <a class="btn btn-success btn-lg my-3" asp-controller="Admin" asp-action="Dashboard">Dashboard'a Git</a>
+    <p class="lead">Yönetim işlemlerini buradan gerçekleştirebilirsiniz.</p>
+    <div class="row mt-4">
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-primary w-100" asp-controller="SanatEseri" asp-action="Listele">Sanat Eserleri</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-primary w-100" asp-controller="Sanatci" asp-action="Listele">Sanatçılar</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-primary w-100" asp-controller="Sergi" asp-action="Listele">Sergiler</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-primary w-100" asp-controller="Islem" asp-action="Listele">İşlemler</a>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-secondary w-100" asp-controller="Ulke" asp-action="Listele">Ülkeler</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-secondary w-100" asp-controller="GaleriKonum" asp-action="Listele">Galeri Konumları</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-secondary w-100" asp-controller="Giris" asp-action="Listele">Girişler</a>
+        </div>
+        <div class="col-md-3 mb-3">
+            <a class="btn btn-outline-secondary w-100" asp-controller="Cikis" asp-action="Listele">Çıkışlar</a>
+        </div>
+    </div>
+</div> 

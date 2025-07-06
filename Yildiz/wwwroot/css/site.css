@@ -1,0 +1,71 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background: #f8f9fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #3a6186 0%, #89253e 100%);
+}
+
+.navbar .nav-link, .navbar .navbar-brand {
+  color: #fff !important;
+  font-weight: 500;
+}
+
+.navbar .nav-link.active, .navbar .nav-link:hover {
+  color: #ffd700 !important;
+}
+
+.admin-dashboard h1 {
+  color: #3a6186;
+  font-weight: bold;
+}
+
+.admin-dashboard .btn {
+  font-size: 1.1rem;
+  padding: 1rem;
+}
+
+.table {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.btn-primary, .btn-outline-primary {
+  background: #3a6186;
+  border-color: #3a6186;
+}
+
+.btn-primary:hover, .btn-outline-primary:hover {
+  background: #89253e;
+  border-color: #89253e;
+}
+
+footer {
+  background: #3a6186;
+  color: #fff;
+  padding: 1rem 0;
+  margin-top: 2rem;
+  border-top: none;
+}

@@ -1,0 +1,14 @@
+@model Yildiz.Models.Sanatci
+@{
+    ViewData["Title"] = "Sanatçı Detay";
+}
+<h2>Sanatçı Detay</h2>
+<dl class="row">
+    <dt class="col-sm-2">İsim</dt>
+    <dd class="col-sm-10">@Model.Isim</dd>
+    <dt class="col-sm-2">Doğum Tarihi</dt>
+    <dd class="col-sm-10">@Model.DogumTarihi.ToShortDateString()</dd>
+    <dt class="col-sm-2">Uyruk</dt>
+    <dd class="col-sm-10">@Model.Uyruk?.Isim</dd>
+</dl>
+<a class="btn btn-secondary" asp-action="Listele">Geri Dön</a> 

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|c:\\users\\ist2-sft-005\\source\\repos\\yildiz\\testproje\\cikiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\cikiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|c:\\users\\ist2-sft-005\\source\\repos\\yildiz\\testproje\\kullanicicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\kullanicicontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|c:\\users\\ist2-sft-005\\source\\repos\\yildiz\\testproje\\islemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\islemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|c:\\users\\ist2-sft-005\\source\\repos\\yildiz\\testproje\\galerikonumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\galerikonumcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|c:\\users\\ist2-sft-005\\source\\repos\\yildiz\\testproje\\giriscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814C980B-7EBB-4ECB-A1C0-DC0410983DD4}|TestProje\\TestProje.csproj|solutionrelative:testproje\\giriscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\KullaniciControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\KullaniciControllerTests.cs",
+              "ToolTip": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\KullaniciControllerTests.cs",
+              "RelativeToolTip": "TestProje\\KullaniciControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:57:50.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IslemControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\IslemControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\IslemControllerTests.cs",
+              "ToolTip": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\IslemControllerTests.cs",
+              "RelativeToolTip": "TestProje\\IslemControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:57:46.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GaleriKonumControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\GaleriKonumControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\GaleriKonumControllerTests.cs",
+              "ToolTip": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\GaleriKonumControllerTests.cs",
+              "RelativeToolTip": "TestProje\\GaleriKonumControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GirisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\GirisControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\GirisControllerTests.cs",
+              "ToolTip": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\GirisControllerTests.cs",
+              "RelativeToolTip": "TestProje\\GirisControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:56.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CikisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\CikisControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProje\\CikisControllerTests.cs",
+              "ToolTip": "C:\\Users\\IST2-SFT-005\\Source\\Repos\\Yildiz\\TestProje\\CikisControllerTests.cs",
+              "RelativeToolTip": "TestProje\\CikisControllerTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:55:21.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

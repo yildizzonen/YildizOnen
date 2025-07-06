@@ -1,0 +1,18 @@
+@model Yildiz.Models.Ulke
+@{
+    ViewData["Title"] = "Ülke Ekle";
+}
+<h2>Ülke Ekle</h2>
+<form asp-action="Ekle" method="post">
+    <div class="form-group">
+        <label asp-for="Isim"></label>
+        <input asp-for="Isim" class="form-control" />
+        <span asp-validation-for="Isim" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Listele">İptal</a>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 
+ 

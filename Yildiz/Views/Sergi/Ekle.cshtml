@@ -1,0 +1,34 @@
+@model Yildiz.Models.Sergi
+@{
+    ViewData["Title"] = "Sergi Ekle";
+}
+<h2>Sergi Ekle</h2>
+<form asp-action="Ekle" method="post">
+    <div class="form-group">
+        <label asp-for="Baslik"></label>
+        <input asp-for="Baslik" class="form-control" />
+        <span asp-validation-for="Baslik" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="BaslangicTarihi"></label>
+        <input asp-for="BaslangicTarihi" class="form-control" type="date" />
+        <span asp-validation-for="BaslangicTarihi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="BitisTarihi"></label>
+        <input asp-for="BitisTarihi" class="form-control" type="date" />
+        <span asp-validation-for="BitisTarihi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="KonumId">Konum</label>
+        <select asp-for="KonumId" class="form-control" asp-items="@(new SelectList(ViewBag.Konumlar, "Id", "Isim"))">
+            <option value="">Seçiniz</option>
+        </select>
+        <span asp-validation-for="KonumId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a class="btn btn-secondary" asp-action="Listele">İptal</a>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

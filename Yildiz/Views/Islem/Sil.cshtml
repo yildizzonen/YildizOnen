@@ -1,0 +1,18 @@
+@model Yildiz.Models.Islem
+@{
+    ViewData["Title"] = "İşlem Sil";
+}
+<h2>İşlem Sil</h2>
+<h4>Bu işlemi silmek istediğinize emin misiniz?</h4>
+<dl class="row">
+    <dt class="col-sm-2">Sanat Eseri</dt>
+    <dd class="col-sm-10">@Model.SanatEseri?.Baslik</dd>
+    <dt class="col-sm-2">Açıklama</dt>
+    <dd class="col-sm-10">@Model.Aciklama</dd>
+</dl>
+<form asp-action="SilOnay" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Sil</button>
+    <a class="btn btn-secondary" asp-action="Listele">İptal</a>
+</form> 
+ 
